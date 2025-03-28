@@ -1,6 +1,6 @@
 Abrir Firmador Digital (Costa Rica)
 
-Este workflow de Alfred abre el firmador digital de Costa Rica (firmador.jar), una aplicación de código abierto desarrollada para firmar documentos con la Firma Digital emitida por el Banco Central de Costa Rica.
+Este workflow de [Alfred](https://alfred.app/) abre el firmador digital de Costa Rica (firmador.jar), una aplicación de código abierto desarrollada para firmar documentos con la Firma Digital emitida por el Banco Central de Costa Rica.
 
 🔑 Palabra clave: firma
 
